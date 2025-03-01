@@ -68,7 +68,7 @@ def main():
         # ホーム画面に戻るボタン
         #if st.button("🏠 ホームに戻る"):
         #    st.write("ホーム画面に戻ります...")  # ホーム画面への遷移処理を追加予定
-        st.page_link("main_temp.py", label="ホームに戻る", icon="🏠")
+        st.page_link("home.py", label="ホームに戻る", icon="🏠")
     
     #2025/02/21 いい感じなのでは？
     #2025/02/27 いい感じやな
