@@ -1,3 +1,5 @@
+#result.pyと同じ内容なのでresult.pyを使用
+
 import streamlit as st
 
 # サンプルデータ
